@@ -14,7 +14,7 @@ un por:
 - NFT #id
 
 
-note
+.. note::
     La generacion actual de los CSS Token es: **Gen 0**
 
 Caracteristicas de la generación actual 
@@ -30,18 +30,22 @@ Caracteristicas de la generación actual
 
 - Tripulacion: 600 
 
-- Nivel inicial: 1
+- Nivel inicial: 0
 
-- Entrenamiento: 1000 puntos
+- Limite de Entrenamiento: 1000 puntos
 
 - Capacidad de entrenamiento: 5 puntos por nivel
 
 - QAIMs: 6
 
-.. note:: 
     1. **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
     2. **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
     3. **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
     4. **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
     5. **Mejoras en Salto GDU**:
     6. **Mejoras cambio de Modo**:
+
+.. note:: 
+    El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
+
+
