@@ -64,4 +64,3 @@ Caracteristicas de la generación actual
 
 
 
-    
