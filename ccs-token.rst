@@ -36,12 +36,12 @@ Caracteristicas de la generación actual
 
 - Capacidad de entrenamiento: 5 puntos por nivel
 
-- QAIMs: 6 
-`` 
+- QAIMs: 6
+
+.. note:: 
     **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
     **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
     **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
     **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
     **Mejoras en Salto GDU**:
     **Mejoras cambio de Modo**:
-``
