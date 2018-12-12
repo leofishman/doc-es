@@ -38,6 +38,8 @@ Caracteristicas de la generación actual
 
 - QAIMs: 6
 
+::
+
     1. **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
     2. **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
     3. **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
