@@ -39,9 +39,9 @@ Caracteristicas de la generación actual
 - QAIMs: 6
 
 .. note:: 
-    **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
-    **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
-    **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
-    **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
-    **Mejoras en Salto GDU**:
-    **Mejoras cambio de Modo**:
+    1. **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
+    2. **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
+    3. **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
+    4. **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
+    5. **Mejoras en Salto GDU**:
+    6. **Mejoras cambio de Modo**:
