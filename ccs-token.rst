@@ -40,12 +40,12 @@ Caracteristicas de la generación actual
 
 ::
 
-    1. **Puntos de Flota**
-    2. **Mejora Recursos**
-    3. **Mejora Construcciones**
-    4. **Mejora de Flota**
-    5. **Mejoras en Salto GDU**
-    6. **Mejoras cambio de Modo**
+    1. Puntos de Flota
+    2. Mejora Recursos
+    3. Mejora Construcciones
+    4. Mejora de Flota
+    5. Mejoras en Salto GDU
+    6. Mejoras cambio de Modo
 
 .. note:: 
     El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
