@@ -15,7 +15,7 @@ un por:
 
 
 note
-    La generacion actual de los CSS Token es: *Gen 0*
+    La generacion actual de los CSS Token es: **Gen 0**
 
 Caracteristicas de la generación actual 
 ---------------------------------------
@@ -29,9 +29,9 @@ Caracteristicas de la generación actual
 - Generacion: Gen 0
 
 - QAIMs: 6 
-    1. *Puntos de Flota*: Asigna puntos adicionales para el diseño del flota.
-    2. *Mejora Recursos*: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
-    3. *Mejora Construcciones*: Mejora el tiempo de construccion y costo para la construccion de estructuras.
-    4. *Mejora de Flota*: Mejora el tiempo de construccion y costo de la flota.
-    5. *Mejoras en Salto GDU*:
-    6. *Mejoras cambio de Modo*:
+    1. **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
+    2. **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
+    3. **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
+    4. **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
+    5. **Mejoras en Salto GDU**:
+    6. **Mejoras cambio de Modo**:
