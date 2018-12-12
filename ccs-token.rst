@@ -5,5 +5,20 @@ CSS Token son los modulos de comando para las naves CryptoSpaceShip. Estos modul
 QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos los procesadores QAIM 
 son entrenados, lo que permite mejorar la performance y el rendimiento en las proximas misiones y treatros de operaciones. 
 
+Cada CSS Token tiene 4 atributos basicos que las diferencia
 
+- Nombre
+- Color
+- Generacion
+- Id
+
+
+Caracteristicas Gen 0 
+---------------------
+
+
+.. image:: gen0.png
+    :width: 200px
+    :alt: Solidity logo
+    :align: center
 
