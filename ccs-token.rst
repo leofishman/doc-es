@@ -6,7 +6,6 @@ QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token partici
 son entrenados, lo que permite mejorar la performance y el rendimiento en las proximas misiones y treatros de operaciones. 
 
 Note
-
 Cada CSS Token puede ser indentificado por su nombre, color, id y generacion.
 
 
