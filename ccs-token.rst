@@ -23,7 +23,7 @@ Caracteristicas de la generación actual
 
 .. image:: gen0.png
     :width: 400px
-    :alt: Solidity logo
+    :alt: CSS Token Draft
     :align: center
 
 - Generacion: Gen 0
@@ -40,14 +40,18 @@ Caracteristicas de la generación actual
 
 ::
 
-    1. **Puntos de Flota**: Asigna puntos adicionales para el diseño del flota.
-    2. **Mejora Recursos**: Mejora el tiempo de construccion y costo para la recoleccion de recursos.
-    3. **Mejora Construcciones**: Mejora el tiempo de construccion y costo para la construccion de estructuras.
-    4. **Mejora de Flota**: Mejora el tiempo de construccion y costo de la flota.
-    5. **Mejoras en Salto GDU**:
-    6. **Mejoras cambio de Modo**:
+    1. **Puntos de Flota**
+    2. **Mejora Recursos**
+    3. **Mejora Construcciones**
+    4. **Mejora de Flota**
+    5. **Mejoras en Salto GDU**
+    6. **Mejoras cambio de Modo**
 
 .. note:: 
     El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
 
 
+.. image:: csstoken.png
+    :width: 400px
+    :alt: CSS Token 
+    :align: center
