@@ -17,8 +17,8 @@ un por:
 note
     La generacion actual de los CSS Token es: *Gen 0*
 
-Caracteristicas Gen 0 
----------------------
+Caracteristicas de la generación actual 
+---------------------------------------
 
 
 .. image:: gen0.png
@@ -26,3 +26,12 @@ Caracteristicas Gen 0
     :alt: Solidity logo
     :align: center
 
+- Generacion: Gen 0
+
+- QAIMs: 6 
+    1. Puntos de Flota
+    2. Mejora Recursos
+    3. Mejora Construcciones
+    4. Mejora de Flota
+    5. Mejoras en Salto GDU
+    6. Mejoras cambio de Modo 
