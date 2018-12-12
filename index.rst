@@ -1,8 +1,3 @@
-CryptoSpaceShip
-===============
-
-
-
 Contents
 ========
 
@@ -11,6 +6,7 @@ Contents
 .. toctree::
    :maxdepth: 2
    
+   cryptospaceship.rst
    ccs-token.rst
    css-hull.rst
    
