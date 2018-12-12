@@ -55,3 +55,13 @@ Caracteristicas de la generación actual
     :width: 400px
     :alt: CSS Token 
     :align: center
+
+
+.. image:: csstokencolor.png
+    :width: 400px
+    :alt: CSS Token Full Render 
+    :align: center
+
+
+
+    
