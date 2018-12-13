@@ -168,7 +168,10 @@ De acuerdo a la distribucion de los puntos existen 5 distintos tipos de drones
     Los drones no solamente sirven para la guerra, sino tambien para enviar recursos a una nave aliada, es necesario que los drones tengan puntos de rango y de carga.
 
    
-
+.. image:: csstokenhull.png
+    :width: 400px
+    :alt: CSS 
+    :align: center
 
 
 
