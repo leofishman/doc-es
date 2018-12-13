@@ -26,8 +26,8 @@ Caracteristicas de la generación actual
 
 
 .. note::
-    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el modulo CSS Token. Si se esta utilizando un CSS Token Gen 0 con 6 QAIMs, a la hora de conectarlo con el CSS Hull hay que seleccionar 2 de los 6 QAIM displonibles.
-
+    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el modulo CSS Token. Es decir si el CSS Token tiene mas QAIMs, como maximo se van a poder seleccionar 2.
+    
 
 Estructuras Productivas
 -----------------------
@@ -38,12 +38,13 @@ Estructuras Productivas
 
 - **1 Recolector de Minerales**: El recolector de metales se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el ultimo nivel 40 grafeno por densidad.
 
+
 .. note::
     En el Crypto-Space existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     La variacion de la densidad es un tema de estudio actual.
 
 
-:: 
+::
     Calculo de Produccion
     pe = d * N
     Siendo
