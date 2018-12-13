@@ -10,7 +10,7 @@ CSS Hull
 Descripción 
 -----------
 
-El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones dandole la posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza.
+El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza y fortaleza andante.
 Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse mas poderosa.
 
 
@@ -52,7 +52,7 @@ Estructuras Productivas
 - **1 Recolector de Minerales**: El recolector de metales se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el ultimo nivel 40 grafeno por densidad.
 
 
-.. hint::
+.. note::
     En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     Actualmente la variacion de la densidad de los distintos elementos es un tema de estudio.
 
@@ -73,7 +73,7 @@ Estructuras Internas
 
 - **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada upgrade
 
-- **Hangar**: 4 niveles. Cada nivel agrega mayor cantidad de puntos de flota y la cantidad de recursos que se disponibilizan a la hora de des ensamblar la flota.
+- **Hangar**: 4 niveles. Cada nivel agrega mayor cantidad de puntos de flota y la cantidad de recursos que se disponibilizan a la hora de des ensamblar la flota de drones de combate.
 
 - **W.O.P.R**: El wopr es el espacio de construccion en el CSS Hull que permite elegir entre los siguientes dispositivos
 
@@ -83,6 +83,25 @@ Estructuras Internas
 
     3. **Resource Converter**: Este modulo permite convertir en tiempo real la producion de grafeno y metales en produccion de energia, ademas de poder convertir del stock cualquier recurso en otro.
 
+
+Modos de nave
+-------------
+
+La generacion actual de CSS Hull posee 4 modos, cadad uno con sus respectivas penalizaciones y bonificaciones con excepcion del modo normal.
+
+Modo Ataque
+^^^^^^^^^^^
+
++-----------------------------------+-------------------------------------------------------+
+| Bonificacion/Penalizacion         | Descripción                                           |
++===================================+=======================================================+
+| + 25%                             | Poder de ataque de la flota de Drones                 |
++-----------------------------------+-------------------------------------------------------+
+| + 50%                             | Distancia de ataque para la flota de Drones           |
++-----------------------------------+-------------------------------------------------------+
+
+Flota de drones
+---------------
 
 
 
