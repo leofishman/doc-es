@@ -14,7 +14,7 @@ El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. 
 Caracteristicas de la generación actual 
 ---------------------------------------
 
-- Cuenta con dos motores CrIon-2 que permiten un salto de hasta 6 gdu
+- Cuenta con dos motores CryIon-2 que permiten un salto de hasta 6 gdu
 
 - Almacenamiento de hasta 16.000.000 de recursos 
 
@@ -22,7 +22,7 @@ Caracteristicas de la generación actual
 
 - 2 Conectores QAIM
 
-- 4 Modos de comportamiento. Ataque, Defensa, Movimiento y Defecto
+- 4 Modos de comportamiento. Ataque, Defensa, Movimiento y Normal
 
 
 .. note::
@@ -52,6 +52,14 @@ A continuacion se detalla el calculo de produccion.
     - d = Densidad del recurso en la posicion
     - N = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
 
+Estructuras Internas
+--------------------
+
+- **Almacen**: 4 niveles 
+
+- **Hangar**: 4 niveles
+
+- **W.O.P.R**: El wopr es el espacio de construccion en el casco que permite 
 
 
    
