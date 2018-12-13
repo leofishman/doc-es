@@ -165,7 +165,7 @@ De acuerdo a la distribucion de los puntos existen 5 distintos tipos de drones
     No pueden coexistir en el mismo momento 2 tipos de drones. Si la estrategia cambia, es necesario re diseñar y construir nuevos tipos de drones.
 
 .. hint::
-    Los drones no solamente sirven para la guerra, sino tambien para enviar recursos a una nave aliada, es necesario que los drones tengan puntos de rango y de carga.
+    Los drones no solamente sirven para la guerra, sino tambien para enviar recursos a una nave aliada, es necesario que los drones tengan puntos de **distancia** y de **carga**.
 
    
 .. image:: csstokenhull.png
