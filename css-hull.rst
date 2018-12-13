@@ -41,7 +41,8 @@ Estructuras Productivas
 
 .. note::
     En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
-    La variacion de la densidad es un tema de estudio actual.
+    Actualmente la variacion de la densidad de los distintos elementos es un tema de estudio.
+
 
 A continuacion se detalla el calculo de produccion.
 
@@ -52,14 +53,21 @@ A continuacion se detalla el calculo de produccion.
     - d = Densidad del recurso en la posicion
     - N = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
 
+
 Estructuras Internas
 --------------------
 
-- **Almacen**: 4 niveles 
+- **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada upgrade
 
-- **Hangar**: 4 niveles
+- **Hangar**: 4 niveles. Cada nivel agrega mayor cantidad de puntos de flota y la cantidad de recursos que se disponibilizan a la hora de des ensamblar la flota.
 
-- **W.O.P.R**: El wopr es el espacio de construccion en el casco que permite 
+- **W.O.P.R**: El wopr es el espacio de construccion en el CSS Hull que permite elegir entre los siguientes dispositivos
+
+    1. **Crypto-Ion Cannon**:
+
+    2. **Reparer**:
+
+    3. **Resource Converter**:
 
 
    
