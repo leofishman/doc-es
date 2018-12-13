@@ -48,6 +48,7 @@ Caracteristicas de la generación actual
 - QAIMs: 6
 
 ::
+
     QAIMs
     1. Puntos de Flota
     2. Mejora Recursos
