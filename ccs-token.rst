@@ -66,7 +66,7 @@ Caracteristicas de la generación actual
     :align: center
 
 .. hint::
-    Una vez que los puntos QAIM son distribuidos, no hay manera de volver atras. Piense bien sus elecciones de acuerto al rumbo que quiera para su CSS Token.
+    Una vez que los puntos QAIM son distribuidos no hay manera de volver atras. Piense bien sus elecciones de acuerto al rumbo que quiera para su CSS Token.
 
 
 
