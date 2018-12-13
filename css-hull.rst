@@ -16,7 +16,7 @@ Caracteristicas de la generación actual
 
 - Cuenta con dos motores CryIon-2 que permiten un salto de hasta 6 gdu
 
-- Almacenamiento de hasta 16.000.000 de recursos 
+- Almacenamiento de recursos 
 
 - Espacio para hasta 520 drones de combate
 
@@ -70,7 +70,7 @@ Estructuras Internas
     3. **Resource Converter**: Este modulo permite convertir en tiempo real la producion de grafeno y metales en produccion de energia, ademas de poder converter del stock cualquier recurso en otro.
 
 
-    
+
 
 
 
