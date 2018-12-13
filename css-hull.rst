@@ -14,7 +14,7 @@ El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. 
 Caracteristicas de la generación actual 
 ---------------------------------------
 
-- Cuanta con dos motores CrIon-2 que permiten un salto de hasta 6 gdu
+- Cuenta con dos motores CrIon-2 que permiten un salto de hasta 6 gdu
 
 - Almacenamiento de hasta 16.000.000 de recursos 
 
@@ -26,7 +26,7 @@ Caracteristicas de la generación actual
 
 
 .. note::
-    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el modulo CSS Token. Es decir si el CSS Token tiene mas QAIMs, como maximo se van a poder seleccionar 2.
+    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el modulo CSS Token. Es decir si el CSS Token tiene mas QAIMs, como maximo se van a poder conectar con dos de ellos.
     
 
 Estructuras Productivas
@@ -40,12 +40,12 @@ Estructuras Productivas
 
 
 .. note::
-    En el Crypto-Space existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
+    En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     La variacion de la densidad es un tema de estudio actual.
 
+A continuacion se detalla el calculo de produccion.
 
 ::
-    Calculo de Produccion
     pe = d * N
     Siendo
         pe = Produccion
