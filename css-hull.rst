@@ -63,9 +63,9 @@ A continuacion se detalla el calculo de produccion.
 
     pe = d * N
     Siendo
-    - pe = Produccion
-    - d = Densidad del recurso en la posicion
-    - N = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
+        **pe** = Produccion
+        **d** = Densidad del recurso en la posicion
+        **N** = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
 
 
 Estructuras Internas
