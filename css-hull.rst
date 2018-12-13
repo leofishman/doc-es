@@ -10,8 +10,8 @@ CSS Hull
 Descripción 
 -----------
 
-El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones.
-
+El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones dandole la posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza.
+Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse mas poderosa.
 .. image:: csssocket.png
     :width: 400px
     :alt: Conexion CSS Token y CSS Hull
@@ -75,7 +75,7 @@ Estructuras Internas
 
     1. **Crypto-Ion Cannon**: Cañon que permite dos modalidades de disparo, normal y punteria. El modo normal ataca a toda la CryptoSpaceShip subiendo el daño general, lo que provoca una disminucion proporcional de la produccion y de los tiempos de construccion y preparacion para las acciones generales de la CryptoSpaceShip (movimientos, cambio de modo, disparos). El modo punteria permite apuntar y dañar a una estructura en particular y genera daño.
 
-    2. **Reparer**: Modulo especial que permite repararse y reparar a otras CryptoSpaceShip de daño probocado por los disparos de cañon. Ademas cuenta con un escudo que atenúa el daño de los disparos. 
+    2. **Reparer**: Modulo especial que permite repararse y reparar a otras CryptoSpaceShip del daño provocado por los disparos de cañon. Ademas cuenta con un escudo que atenúa el daño de los disparos. 
 
     3. **Resource Converter**: Este modulo permite convertir en tiempo real la producion de grafeno y metales en produccion de energia, ademas de poder converter del stock cualquier recurso en otro.
 
