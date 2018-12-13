@@ -2,6 +2,8 @@
 Crypto-space Ship
 #################
 
+Las naves crypto-espaciales son poderosas bases espaciales que pueden surcar el universo
+
 *********
 CSS Token
 *********
@@ -10,7 +12,7 @@ CSS Token
 Descripción 
 ===========
 
-CSS Token son los modulos de comando para las naves CryptoSpaceShip. Estos modulos de comando poseen procesadores de habilidades llamados
+CSS Token son los modulos de comando para las naves Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
 QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos los procesadores QAIM 
 son entrenados, lo que permite mejorar la performance y el rendimiento en las proximas misiones y teatros de operaciones. 
 
@@ -87,7 +89,7 @@ CSS Hull
 Descripción 
 ===========
 
-El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza y fortaleza andante.
+El CSS Hull es el componente que junto al CSS Token forman una Crypto-space Ship. Este modulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza y fortaleza andante.
 Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse mas poderosa.
 
 
@@ -130,7 +132,7 @@ Estructuras Productivas
 
 
 .. note::
-    En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
+    En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la Crypto-space Ship ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     Actualmente la variacion de la densidad de los distintos elementos es un tema de estudio.
 
 
@@ -154,9 +156,9 @@ Estructuras Internas
 
 - **W.O.P.R**: El wopr es el espacio de construccion en el CSS Hull que permite elegir entre los siguientes dispositivos
 
-    1. **Crypto-Ion Cannon**: Cañon que permite dos modalidades de disparo, normal y punteria. El modo normal ataca a toda la CryptoSpaceShip subiendo el daño general, lo que provoca una disminucion proporcional de la produccion y de los tiempos de construccion y preparacion para las acciones generales de la CryptoSpaceShip (movimientos, cambio de modo, disparos). El modo punteria permite apuntar y dañar a una estructura en particular y genera daño.
+    1. **Crypto-Ion Cannon**: Cañon que permite dos modalidades de disparo, normal y punteria. El modo normal ataca a toda la Crypto-space Ship subiendo el daño general, lo que provoca una disminucion proporcional de la produccion y de los tiempos de construccion y preparacion para las acciones generales de la Crypto-space Ship (movimientos, cambio de modo, disparos). El modo punteria permite apuntar y dañar a una estructura en particular y genera daño.
 
-    2. **Reparer**: Modulo especial que permite repararse y reparar a otras CryptoSpaceShip del daño provocado por los disparos de cañon. Ademas cuenta con un escudo que atenúa el daño de los disparos. 
+    2. **Reparer**: Modulo especial que permite repararse y reparar a otras Crypto-space Ship del daño provocado por los disparos de cañon. Ademas cuenta con un escudo que atenúa el daño de los disparos. 
 
     3. **Resource Converter**: Este modulo permite convertir en tiempo real la producion de grafeno y metales en produccion de energia, ademas de poder convertir del stock cualquier recurso en otro.
 
@@ -178,7 +180,7 @@ Modo Ataque
 +-----------------------------------+-------------------------------------------------------+
 | -5%                               | Podes de defensa de la flota de Drones                |
 +-----------------------------------+-------------------------------------------------------+
-| -25%                              | Rango de movimiento de la CryptoSpaceShip             |
+| -25%                              | Rango de movimiento de la Crypto-space Ship           |
 +-----------------------------------+-------------------------------------------------------+
 
 
@@ -192,7 +194,7 @@ Modo Defensa
 +-----------------------------------+-------------------------------------------------------+
 | -10%                              | Poder de ataque de la flota de Drones                 |
 +-----------------------------------+-------------------------------------------------------+
-| -100%                             | Rango de movimiento de la CryptoSpaceShip             |
+| -100%                             | Rango de movimiento de la Crypto-space Ship           |
 +-----------------------------------+-------------------------------------------------------+
 
 
@@ -202,7 +204,7 @@ Modo Movimiento
 +-----------------------------------+-------------------------------------------------------+
 | Bonificacion/Penalizacion         | Descripción                                           |
 +===================================+=======================================================+
-| +50%                              | Rango de movimiento de la CryptoSpaceShip             |
+| +50%                              | Rango de movimiento de la Crypto-space Ship           |
 +-----------------------------------+-------------------------------------------------------+
 | -10%                              | Poder de ataque de la flota de Drones                 |
 +-----------------------------------+-------------------------------------------------------+
