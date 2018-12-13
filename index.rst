@@ -2,7 +2,7 @@ Contents
 ========
 
 .. image:: intro.png
-    :width: 400px
+    :width: 700px
     :alt: CryptoSpaceShip
     :align: center
 
