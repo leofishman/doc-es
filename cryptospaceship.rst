@@ -1,5 +1,82 @@
+#################
+Crypto-space Ship
+#################
+
+*********
+CSS Token
+*********
+
+
+Descripción 
+===========
+
+CSS Token son los modulos de comando para las naves CryptoSpaceShip. Estos modulos de comando poseen procesadores de habilidades llamados
+QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos los procesadores QAIM 
+son entrenados, lo que permite mejorar la performance y el rendimiento en las proximas misiones y teatros de operaciones. 
+
+.. image:: csstokencolor.png
+    :width: 400px
+    :alt: CSS Token Full Render 
+    :align: center
+
+Cada CSS Token tiene caracteristicas propias de la generacion y caracteristicas generales. Sin importar la generacion, se puede diferenciar
+un por:
+
+- Nombre
+- Color
+- Generación
+- NFT #id
+
+
+.. note::
+    La generacion actual de los CSS Token es: **Gen 0**
+
+Caracteristicas de la generación actual 
+=======================================
+
+
+.. image:: gen0.png
+    :width: 400px
+    :alt: CSS Token Draft
+    :align: center
+
+- Generacion: Gen 0
+
+- Tripulacion: 600 
+
+- Nivel inicial: 0
+
+- Limite de Entrenamiento: 1000 puntos
+
+- Capacidad de entrenamiento: 5 puntos por nivel
+
+- QAIMs: 6
+
+::
+
+    QAIMs
+    1. Puntos de Flota
+    2. Mejora Recursos
+    3. Mejora Construcciones
+    4. Mejora de Flota
+    5. Mejoras en Salto GDU
+    6. Mejoras cambio de Modo
+
+.. note:: 
+    El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
+
+.. image:: csstoken.png
+    :width: 400px
+    :alt: CSS Token 
+    :align: center
+
+.. hint::
+    Una vez que los puntos QAIM son distribuidos no hay manera de volver atras. Piense bien sus elecciones de acuerto al rumbo que quiera para su CSS Token.
+
+
+********
 CSS Hull
-========
+********
 
 .. image:: cryptospaceship.png
     :width: 400px
@@ -8,7 +85,7 @@ CSS Hull
 
 
 Descripción 
------------
+===========
 
 El CSS Hull es el componente que junto al CSS Token forman una CryptoSpaceShip. Este modulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza y fortaleza andante.
 Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse mas poderosa.
@@ -25,7 +102,7 @@ Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un n
 
 
 Caracteristicas de la generación actual 
----------------------------------------
+=======================================
 
 - Cuenta con dos motores CryIon-2 que permiten un salto de hasta 6 gdu
 
@@ -43,7 +120,7 @@ Caracteristicas de la generación actual
     
 
 Estructuras Productivas
------------------------
+=======================
 
 - **6 Paneles solares**: Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
 
@@ -69,7 +146,7 @@ A continuacion se detalla el calculo de produccion.
 
 
 Estructuras Internas
---------------------
+====================
 
 - **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada upgrade
 
@@ -85,12 +162,12 @@ Estructuras Internas
 
 
 Modos de nave
--------------
+=============
 
 La generacion actual de CSS Hull posee 4 modos, cadad uno con sus respectivas penalizaciones y bonificaciones con excepcion del modo normal.
 
 Modo Ataque
-^^^^^^^^^^^
+-----------
 
 +-----------------------------------+-------------------------------------------------------+
 | Bonificacion/Penalizacion         | Descripción                                           |
@@ -106,7 +183,7 @@ Modo Ataque
 
 
 Modo Defensa
-^^^^^^^^^^^^
+------------
 
 +-----------------------------------+-------------------------------------------------------+
 | Bonificacion/Penalizacion         | Descripción                                           |
@@ -120,7 +197,7 @@ Modo Defensa
 
 
 Modo Movimiento
-^^^^^^^^^^^^^^^
+---------------
 
 +-----------------------------------+-------------------------------------------------------+
 | Bonificacion/Penalizacion         | Descripción                                           |
@@ -136,7 +213,7 @@ Modo Movimiento
 
 
 Flota de drones
----------------
+===============
 
 Cada drone activo consume 1x de energia disminuyendo la produccion, como consecuencia se puede tener tantos drones activos segun la cantidad de energia que produce la CryptoSpaceShip. 
 El diseño de los drones consiste en la distribucion de los puntos disponibles de acuerdo al nivel de hangar. 
@@ -172,6 +249,8 @@ De acuerdo a la distribucion de los puntos existen 5 distintos tipos de drones
     :width: 400px
     :alt: CSS 
     :align: center
+
+
 
 
 
