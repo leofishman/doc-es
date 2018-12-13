@@ -142,7 +142,7 @@ Cada drone activo consume 1x de energia disminuyendo la produccion, como consecu
 El diseño de los drones consiste en la distribucion de los puntos disponibles de acuerdo al nivel de hangar. 
 
 .. hint::
-    Los drones se pueden diseañar y rediseñar en cualquier momento, el unico requisito es no tener ningun dron activo. Se puede tambien destruir los drones activos con el fin de rediseñar. A partir del nivel 2 de hangar al destruir drones activos parte de los recursos se reciclan y vuelven al stock.
+    Los drones se pueden diseañar y rediseñar en cualquier momento, el unico requisito es no tener ningun dron activo. Se puede tambien destruir los drones activos con el fin de rediseñar. A partir del nivel 2 de hangar, al destruir drones activos parte de los recursos se reciclan y vuelven al stock.
 
 
 Los puntos para el diseño de drones se pueden distribuir en las siguientes caracteristicas:
@@ -150,16 +150,16 @@ Los puntos para el diseño de drones se pueden distribuir en las siguientes cara
     1. **Ataque**: Puntos de ataque de cada dron
     2. **Defensa**: Puntos de defensa de cada dron
     3. **Carga**: Capacidad de carga de cada recurso
-    4. **Distancia**: Rango de ataque.
+    4. **Distancia**: Rango de ataque
 
 
 De acuerdo a la distribucion de los puntos existen 5 distintos tipos de drones
 
-    - Predator: Su mayor caracteristica es el ataque
-    - Keeper: Su mayor caracteristica es la defensa
-    - Interceptor: Su mayor caracteristica es el rango de ataque
-    - Galleon: Su mayor caracteristica es la cantidad de recursos que puede transportar
-    - Hybrid: No tiene una caracteristica sobresaliente
+    - **Predator**: Su mayor caracteristica es el ataque
+    - **Keeper**: Su mayor caracteristica es la defensa
+    - **Interceptor**: Su mayor caracteristica es el rango de ataque
+    - **Galleon**: Su mayor caracteristica es la cantidad de recursos que puede transportar
+    - **Hybrid**: No tiene una caracteristica sobresaliente
 
 .. note::
     No pueden coexistir en el mismo momento 2 tipos de drones. Si la estrategia cambia, es necesario re diseñar y construir nuevos tipos de drones.

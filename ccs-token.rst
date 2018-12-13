@@ -60,13 +60,13 @@ Caracteristicas de la generación actual
 .. note:: 
     El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
 
-
 .. image:: csstoken.png
     :width: 400px
     :alt: CSS Token 
     :align: center
 
-
+.. hint::
+    Una vez que los puntos QAIM son distribuidos, no hay manera de volver atras. Piense bien sus elecciones de acuerto al rumbo que quiera para su CSS Token.
 
 
 
