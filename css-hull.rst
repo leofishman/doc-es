@@ -42,6 +42,17 @@ Estructuras Productivas
     En el Crypto-Space existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la CryptoSpaceShip ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     La variacion de la densidad es un tema de estudio actual.
 
+:: 
+    Calculo de Produccion
+
+    pe = d * N
+    
+    Siendo
+        pe = Produccion
+        d = Densidad del recurso en la posicion
+        N = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
+
+   
 
 
 
