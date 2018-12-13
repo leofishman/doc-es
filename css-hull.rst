@@ -95,9 +95,9 @@ Modo Ataque
 +-----------------------------------+-------------------------------------------------------+
 | Bonificacion/Penalizacion         | Descripción                                           |
 +===================================+=======================================================+
-| + 25%                             | Poder de ataque de la flota de Drones                 |
+| +25%                              | Poder de ataque de la flota de Drones                 |
 +-----------------------------------+-------------------------------------------------------+
-| + 50%                             | Distancia de ataque para la flota de Drones           |
+| +50%                              | Distancia de ataque para la flota de Drones           |
 +-----------------------------------+-------------------------------------------------------+
 
 Flota de drones
