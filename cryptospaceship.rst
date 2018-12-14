@@ -9,7 +9,7 @@ Crypto-space Ship
     :align: center
 
 
-Las naves crypto-espaciales son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por le modulo de mando y el casco.
+Las naves crypto-espaciales son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por le modulo de mando y el casco, **CSS Token** y **CSS Hull** respectivamente
 
 
 *********
@@ -19,7 +19,7 @@ CSS Token
 Descripción 
 ===========
 
-CSS Token son los modulos de comando para las naves Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
+CSS Token es modulo de mando de las Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
 QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos los procesadores QAIM 
 son entrenados, lo que permite mejorar la performance y el rendimiento en las proximas misiones y teatros de operaciones. 
 
@@ -212,8 +212,6 @@ Modo Movimiento
 +-----------------------------------+-------------------------------------------------------+
 | -10%                              | Poder de defensa de la flota de Drones                |
 +-----------------------------------+-------------------------------------------------------+
-
-
 
 
 Flota de drones
