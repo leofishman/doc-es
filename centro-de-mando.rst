@@ -2,14 +2,14 @@
 Centro de Mando
 ###############
 
-Todo capitan de una Crypto-space Ship tiene que saber como hacerla evolucionar, batallar y comandar.
+Todo capitan de una Crypto-space Ship tiene que saber como hacerla evolucionar, ganar battlas y surcar el crypto-espacio.
 
 
 *********************
 Indicadores Generales
 *********************
 
-.. image:: resources.png
+.. image:: indicadores.png
     :width: 700px
     :alt: Recursos
     :align: center
