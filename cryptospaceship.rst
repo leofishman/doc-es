@@ -2,12 +2,12 @@
 Crypto-space Ship
 #################
 
-Las naves crypto-espaciales son poderosas bases espaciales que pueden surcar el universo
+Las naves crypto-espaciales son poderosas fortalezas espaciales autosuficientes que pueden surcar el espacio imponiendo respeto a su paso.
+
 
 *********
 CSS Token
 *********
-
 
 Descripción 
 ===========
