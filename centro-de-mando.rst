@@ -6,7 +6,7 @@ Recursos
 --------
 
 .. image:: resources.png
-    :width: 800px
+    :width: 700px
     :alt: Recursos
     :align: center
 
@@ -15,7 +15,7 @@ Construcciones
 --------------
 
 .. image:: buildings.png
-    :width: 800px
+    :width: 700px
     :alt: Recursos
     :align: center
 
@@ -24,7 +24,7 @@ Map
 ---
 
 .. image:: map.png
-    :width: 800px
+    :width: 700px
     :alt: Recursos
     :align: center
 

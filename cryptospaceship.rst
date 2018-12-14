@@ -2,7 +2,14 @@
 Crypto-space Ship
 #################
 
-Las naves crypto-espaciales son poderosas fortalezas espaciales autosuficientes que pueden surcar el espacio imponiendo respeto a su paso.
+
+.. image:: cryptospaceship.png
+    :width: 400px
+    :alt: CryptoSpaceShip
+    :align: center
+
+
+Las naves crypto-espaciales son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por le modulo de mando y el casco.
 
 
 *********
@@ -79,11 +86,6 @@ Caracteristicas de la generación actual
 ********
 CSS Hull
 ********
-
-.. image:: cryptospaceship.png
-    :width: 400px
-    :alt: CryptoSpaceShip
-    :align: center
 
 
 Descripción 
