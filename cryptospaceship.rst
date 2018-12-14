@@ -9,7 +9,7 @@ Crypto-space Ship
     :align: center
 
 
-Las naves crypto-espaciales son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por le modulo de mando y el casco, **CSS Token** y **CSS Hull** respectivamente
+Las naves crypto-espaciales son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por el modulo de mando y el casco, **CSS Token** y **CSS Hull** respectivamente
 
 
 *********
@@ -126,16 +126,23 @@ Caracteristicas de la generación actual
 Estructuras Productivas
 =======================
 
-- **6 Paneles solares**: Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
+En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construccion.
 
-- **1 Recolector de Grafeno**: El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el utimo nivel 40 grafeno por densidad.
+- **6 Paneles solares**: Los paneles solares absorven enegia de la estrella mas cercana. Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
 
-- **1 Recolector de Minerales**: El recolector de metales se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el ultimo nivel 40 grafeno por densidad.
+- **1 Recolector de Grafeno**: Como bien lo dice el nombre, este modulo recolecta y procesa el grafeno que esta desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el utimo nivel 40 grafeno por densidad.
 
+- **1 Recolector de Minerales**: Este modulo recolecta los metales que existen en cada cuadrante. Se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el ultimo nivel 40 grafeno por densidad.
+
+
+.. hint::
+    Desarrollar primero estas estructuras productivas te pueden dar la ventaja ya que una nave desarrollada econominamente es una nave poderosa.
+    
 
 .. note::
-    En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. La produccion de energia no depende de la posicion donde se encuentre la Crypto-space Ship ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
+    La produccion de energia no depende de la posicion donde se encuentre la Crypto-space Ship ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
     Actualmente la variacion de la densidad de los distintos elementos es un tema de estudio.
+
 
 
 A continuacion se detalla el calculo de produccion.
