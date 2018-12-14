@@ -25,7 +25,7 @@ Los siguiente indicadores estan siempre presentes e informan lo siguiente:
 4. Estado de la Crypto-space Ship. **100%** indica que se encuentra en optimas condiciones.
 
 .. hint::
-    Cuando el recurso acumulado es igual a la cantidad que la Crypto-space ship puede almacenar actualmente y la produccion de cada recurso es mayor a 0, se estan desperdiciando recursos. ** Se recomienda gastar o de ser posible ampliar el almancen.**
+    Cuando el recurso acumulado es igual a la cantidad que la Crypto-space ship puede almacenar actualmente y la produccion de cada recurso es mayor a 0, se estan desperdiciando recursos. **Se recomienda gastar o de ser posible ampliar el almancen**.
 
 
 ********
