@@ -9,11 +9,24 @@ Todo capitan de una Crypto-space Ship tiene que saber como hacerla evolucionar, 
 Indicadores Generales
 *********************
 
+Los siguiente indicadores estan siempre presentes e informan lo siguiente
+
 .. image:: indicadores.png
     :width: 700px
     :alt: Recursos
     :align: center
 
+1. Cantidad de Energia acumulada sobre la cantidad que puede almacenar actualmente
+
+2. Cantidad de Grafeno acumulado sobre la cantidad que puede almacenar actualmente
+
+3. Cantidad de Metales acumulado sobre la cantidad que puede almacenar actualmente
+
+4. Estado de la Crypto-space Ship
+
+.. hint::
+    Cuando el recurso acumulado es igual a la cantidad que la Crypto-space ship puede almacenar actualmente y la produccion de cada recurso no es 0, se estan desperdiciando recursos. Se recomienda gastar o de ser posible ampliar el almancen.
+    
 
 ********
 Recursos
