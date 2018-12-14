@@ -54,6 +54,7 @@ Las barras indican la cantidad de recursos disponibles para ampliar al proximo n
 
 
 El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo. Al presionarlo se puede observar la cantidad re recursos necesarios para el upgrade y enviar la orde de construccion.
+Una vez que se confirma, se descuentan los recursos y empieza su actualizacion.
 
 .. image:: upgrade.png
     :width: 400px
@@ -63,6 +64,17 @@ El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesa
 
 Seccion Derecha
 ===============
+
+Sobre este espacio se puede observar:
+
+1. **Location**: Coordenada donde se encuentra la Crypto-space Ship
+
+2. **Production Ratio**: La produccion de recursos por bloque
+
+3. **Watch countdown**: La cuenta regresiva que muestra la cantidad de bloques restantes para terminar la actualizacion.
+
+Opcionalmente pueden aparecer otros botones intermintes desbloqueando ciertas caracteristicas, como por ejemplo la opcion de prender el conversor de recursos y la opcion de convertir recursos.
+
 
 
 **************
