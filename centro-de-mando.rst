@@ -39,7 +39,8 @@ A continuacion se presenta la vista de Recursos.
     :alt: Recursos
     :align: center
 
-- Seccion Izquierda:
+Seccion Izquierda
+=================
 
     Se puede observar el nivel de:
     
@@ -52,7 +53,16 @@ A continuacion se presenta la vista de Recursos.
     Las barras indican la cantidad de recursos disponibles para ampliar al proximo nivel. El color amarillo representa a la energia, el color negro al grafeno y el gris a metales.
 
 
-    El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo. Al presionarlo se puede observar el precio y enviar la orde de construccion.
+    El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo. Al presionarlo se puede observar la cantidad re recursos necesarios para el upgrade y enviar la orde de construccion.
+
+    .. image:: upgrade.png
+        :width: 400px
+        :alt: Recursos
+        :align: center
+
+
+Seccion Derecha
+===============
 
 
 **************
