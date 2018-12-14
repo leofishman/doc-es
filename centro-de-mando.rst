@@ -52,9 +52,7 @@ Se puede observar el nivel de:
 
 Las barras indican la cantidad de recursos disponibles para ampliar al proximo nivel. El color amarillo representa a la energia, el color negro al grafeno y el gris a metales.
 
-
-El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo. Al presionarlo se puede observar la cantidad re recursos necesarios para el upgrade y enviar la orden de construccion.
-
+El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo, ya que no se permiten ampliaciones simultaneas. Al presionarlo se puede observar la cantidad re recursos necesarios para la actualiacion y al presionar el boton **Confirm** se envia la orden de construccion.
 
 .. image:: upgrade.png
     :width: 400px
@@ -77,15 +75,49 @@ Sobre este espacio se puede observar:
 Opcionalmente pueden aparecer otros botones intermintes desbloqueando ciertas caracteristicas, como por ejemplo la opcion de prender el conversor de recursos y la opcion de convertir recursos.
 
 
-
 **************
 Construcciones
 **************
+
+Vista del panel de construcciones internas
+
 
 .. image:: buildings.png
     :width: 700px
     :alt: Recursos
     :align: center
+
+Seccion Izquierda
+=================
+
+Al igual que en la vista de recursos, se puede observar el nivel de las siguientes estructuras
+
+1. Almacen
+
+2. Hangar
+
+3. W.O.P.R
+
+Las barras indican la cantidad de recursos disponibles para ampliar al proximo nivel. El color amarillo representa a la energia, el color negro al grafeno y el gris a metales.
+
+El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo, ya que no se permiten ampliaciones simultaneas. Al presionarlo se puede observar la cantidad re recursos necesarios para la actualiacion y al presionar el boton **Confirm** se envia la orden de construccion.
+
+Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que seleccionar el rol de W.O.P.R entre:
+
+1. Crypto-Ion Cannon
+
+2. Converter
+
+3. Reparer
+
+.. image:: wopr.png
+    :width: 400px
+    :alt: Recursos
+    :align: center
+
+Seccion Derecha
+===============
+
 
 ***
 Map

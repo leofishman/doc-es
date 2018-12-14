@@ -128,6 +128,8 @@ Estructuras Productivas
 
 En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construccion.
 
+A continuacion se detallan las estructuras de producion
+
 - **6 Paneles solares**: Los paneles solares absorven enegia de la estrella mas cercana. Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
 
 - **1 Recolector de Grafeno**: Como bien lo dice el nombre, este modulo recolecta y procesa el grafeno que esta desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el utimo nivel 40 grafeno por densidad.
@@ -136,7 +138,7 @@ En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas la
 
 
 .. hint::
-    Desarrollar primero estas estructuras productivas te pueden dar la ventaja ya que una nave desarrollada econominamente es una nave poderosa.
+    Desarrollar primero estas estructuras productivas le pueden dar la ventaja ya que una nave desarrollada econominamente es una nave poderosa.
 
 
 .. note::
@@ -151,15 +153,15 @@ A continuacion se detalla el calculo de produccion.
 
     pe = d * N
     Siendo
-        **pe** = Produccion
-        **d** = Densidad del recurso en la posicion
-        **N** = La cantidad que produce un recolector (ya sea de grafeno o metales) en un nivel dado.
+        pe = Produccion
+        d = Densidad del recurso en la posicion
+        N = La cantidad que produce un recolector en un nivel dado.
 
 
 Estructuras Internas
 ====================
 
-- **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada upgrade
+- **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada actualizacion. 
 
 - **Hangar**: 4 niveles. Cada nivel agrega mayor cantidad de puntos de flota y la cantidad de recursos que se disponibilizan a la hora de des ensamblar la flota de drones de combate.
 
@@ -224,7 +226,7 @@ Modo Movimiento
 Flota de drones
 ===============
 
-Cada drone activo consume 1x de energia disminuyendo la produccion, como consecuencia se puede tener tantos drones activos segun la cantidad de energia que produce la CryptoSpaceShip. 
+Cada drone activo consume 1x de energia disminuyendo la produccion, como consecuencia se puede tener tantos drones activos segun la cantidad de energia que produce la Crypto-space Ship. 
 El diseño de los drones consiste en la distribucion de los puntos disponibles de acuerdo al nivel de hangar. 
 
 .. hint::
