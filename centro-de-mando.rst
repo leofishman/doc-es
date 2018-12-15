@@ -39,7 +39,7 @@ A continuacion se presenta la vista de Recursos.
     :alt: Recursos
     :align: center
 
-Seccion Izquierda
+Sección Izquierda
 =================
 
 Se puede observar el nivel de:
@@ -61,7 +61,7 @@ El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesa
 
 Una vez que se confirma, se descuentan los recursos y empieza su actualizacion.
 
-Seccion Derecha
+Sección Derecha
 ===============
 
 Sobre este espacio se puede observar:
@@ -74,6 +74,8 @@ Sobre este espacio se puede observar:
 
 Opcionalmente pueden aparecer otros botones intermintes desbloqueando ciertas caracteristicas, como por ejemplo la opcion de prender el conversor de recursos y la opcion de convertir recursos.
 
+.. note::
+    **La unidad de medida de tiempo son los bloques**
 
 **************
 Construcciones
@@ -87,7 +89,7 @@ Vista del panel de construcciones internas
     :alt: Recursos
     :align: center
 
-Seccion Izquierda
+Sección Izquierda
 =================
 
 Al igual que en la vista de recursos, se puede observar el nivel de las siguientes estructuras
@@ -115,10 +117,11 @@ Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que selec
     :alt: Recursos
     :align: center
 
-Seccion Derecha
+
+Sección Derecha
 ===============
 
-En esta seccion se puede encontrar infomacion sobre la configuracion de la flota de drones de combate (**fleet**).
+En esta sección se puede encontrar infomacion sobre la configuracion de la flota de drones de combate (**fleet**).
 
 1. **Fleet**: Informacion sobre la flota de drones
 
@@ -141,10 +144,41 @@ En esta seccion se puede encontrar infomacion sobre la configuracion de la flota
 Map
 ***
 
+La sección estrategica por excelencia, donde los grandes comandantes se forjan y nacen las leyendas.
+
 .. image:: map.png
     :width: 700px
     :alt: Recursos
     :align: center
+
+Sección Izquierda
+=================
+
+En esta parte se puede encontrar la barra que indica la energia necesaria para poder pasas la Crypto-space Ship de modo.
+Luego los distintos botones para pasar de modo. Indicando con otro color el modo en que se encuentra actualmente.
+
+Finalmente podemos poner unas coordenadas en **Map Browse** para poder explorar una posicion en el mapa.
+
+
+Sección Central
+===============
+
+Sección Derecha
+===============
+
+- **Location** nos indica las coordenadas de la posicion de la Crypto-space Ship en el mapa
+
+- **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran. 
+
+- **Action Countdown** la cantidad de bloques necesarios para
+
+    - **Move**: realizar un movimiento de la Crypto-space Ship. Esto se debe a que los motores se deben cargar para poder realizar el proximo salto.
+
+    - **Mode**: poder cambiar de modo nuevamente.
+
+    - **Fleet**: para poder utilizar nuestra flota nuevamente, ya sea para enviar recursos o para atacar una Crypto-space Ship enemiga. Hay que considerar que luego de un ataque o de un viaje, los drones necesitan reparaciones y recarga de energia.
+
+    - **Fire** o **Repare**: La espera para poder realizar otra reparacion o dispario de cañon. Este contador depende del rol elegido al momento de actualizar el WOPR a nivel 1.
 
 
 ********
