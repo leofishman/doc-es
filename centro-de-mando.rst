@@ -188,11 +188,30 @@ Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship 
 
 .. image:: emptymap.png
     :width: 400px
-    :alt: Central map
+    :alt: Empty Map
     :align: center
 
 .. hint::
     La disponibilidad de recursos varia en las distintas posiciones, es conveniente buscar un lugar con alta densidad de recursos. Una alta densidad implica una mayor produccion, una evolucion mas rapida hace la Crypto-space Ship mas poderosa en menor tiempo.
+
+
+Planetas
+--------
+
+Cuanto se selecciona un planeta se puede ver informacion del mismo.
+
+.. image:: planetmap.png
+    :width: 400px
+    :alt: Planet Map
+    :align: center
+
+El boton **Attack** estara disponible en caso de que la flota de drones este lista para el combate, el planeta se puede atacar para intentar debilitar a los defensores o directamente intentar la conquista.
+Si la intencion es defender el planeta, se puede ocupar una de las 4 posiciones defensivas, es necesario contar con drones para que **Defend** esta habilitado.
+Para poder aterrizar basta con presionar el boton **Land** que se disponibilizara en caso de que la Crypto-space Ship esta a distancia y los motores esten listos para el siguiente movimiento.
+
+.. hint::
+    Al aterrizar en un planeta la produccion de grafeno y metales es nula. Pero es una excelente opcion para escapar de un enemigo ya que estando en el planeta no hay forma de ser atacado.
+
 
 Sección Derecha
 ===============
