@@ -163,12 +163,23 @@ Finalmente podemos poner unas coordenadas en **Map Browse** para poder explorar 
 Sección Central
 ===============
 
+En esta sección encontramos el mapa estrategico de 7x7 casilleros cada una representado por una coordenada. En el centro, de se posible, se encuentra la Crypto-space ship que estamos comandando. 
+tambien podemos identificar otros objetos tales como:
+
+
+- **Planetas**
+
+- **Cinturones de Asteroides**
+
+- **Otras Crypto-space ships**
+
+
 Sección Derecha
 ===============
 
 - **Location** nos indica las coordenadas de la posicion de la Crypto-space Ship en el mapa
 
-- **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran. 
+- **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran: **Ready for battle** o **Waiting**. 
 
 - **Action Countdown** la cantidad de bloques necesarios para
 
