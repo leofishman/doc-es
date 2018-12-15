@@ -166,6 +166,10 @@ Sección Central
 En esta sección encontramos el mapa estrategico de 7x7 casilleros cada una representado por una coordenada. En el centro, de se posible, se encuentra la Crypto-space ship que estamos comandando. 
 tambien podemos identificar otros objetos tales como:
 
+.. image:: centralmap.png
+    :width: 400px
+    :alt: Central map
+    :align: center
 
 - **Planetas**
 
@@ -173,6 +177,22 @@ tambien podemos identificar otros objetos tales como:
 
 - **Otras Crypto-space ships**
 
+- **Coordenadas vacias**
+
+
+Coordenedas vacias
+------------------
+
+Al inspeccionar una posicion vacia, podemos obsevar infomacion sobre la misma. La densidad de recursos, tanto de grafeno como de metales; como asi tambien la distancia a la que se encuentra.
+Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship hacia esa posicion.
+
+.. image:: emptymap.png
+    :width: 400px
+    :alt: Central map
+    :align: center
+
+.. hint::
+    La disponibilidad de recursos varia en las distintas posiciones, es conveniente buscar un lugar con alta densidad de recursos. Una alta densidad implica una mayor produccion, una evolucion mas rapida hace la Crypto-space Ship mas poderosa en menor tiempo.
 
 Sección Derecha
 ===============
