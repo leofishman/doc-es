@@ -2,8 +2,8 @@
 Modos de Juego
 ##############
 
-CryptoSpaceShip es un juego de estrategia de navegador donde todo sucede en la blockchain. **El heroe** del juego el CSS Token que evoluciona y va ganando experiencia en los ditintas partidas sin importar si gana o pierda algo de puntos de experiencia siempre suma.
-A medida que va evolucionando va dando siertas ventajas que cada dueño del CSS Token tiene que elegir.
+CryptoSpaceShip es un juego de estrategia de navegador donde todo sucede en la blockchain. **El heroe** del juego el CSS Token que evoluciona y va ganando experiencia en los ditintas partidas, sin importar si gana o pierda algo de puntos de experiencia siempre suma.
+A medida que va evolucionando, va a ir ganando siertas ventajas que cada dueño del CSS Token tiene que elegir.
 
 Para poder jugar es necesario contar con un CSS Token, se puede adquirir directamente en el portal del juego o en su defecto en un mercado alternativo.
 Los CSS Token que se venden en el portal son basicas, esto quiere decir que no estan evolucionadas. 
