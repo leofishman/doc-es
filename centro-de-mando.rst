@@ -198,9 +198,9 @@ Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship 
 Planetas
 --------
 
-Cuanto se selecciona un planeta se puede ver informacion del mismo.
+Cuanto se selecciona un planeta se disponibilizara la informacion del mismo.
 
-- El nombre
+- El nombre con que se conoce al planeta
 
 - La distancia a la que se encuentra
 
@@ -256,6 +256,10 @@ Sección Derecha
 ********
 Mensajes
 ********
+
+Es la manera que tienen las Crypto-space Ship para comunicarse entre si. Al instante de escribir un mensaje el capitan de la otra Crypto-space Ship ya puede leerlo.
+Solamente es necesario saber el nombre de la otra Crypto-space Ship a la hora de redactar el mensaje.
+
 
 
 *******
