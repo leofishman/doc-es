@@ -120,20 +120,23 @@ Seccion Derecha
 
 En esta seccion se puede encontrar infomacion sobre la configuracion de la flota de drones de combate (**fleet**).
 
-1. El numero de drones que compone la flota
+1. **Fleet**: Informacion sobre la flota de drones
 
-2. Las caracteristicas de la flota, es decir, puntos de ataque, defensa, distancia y carga. En el caso de que la flota este diseñada. Al construir el hangar en nivel 1 ya aparece el boton intermintente **DESIGN FLEET** y luego que este diseñada **BUILD MORE**.
-Ademas la otra opcion que puede aparecer es el boton intermitente **DISASSEMBLE FLEET** para destruir la flota actual.
+    - El numero de drones que compone la flota
+    
+    - Las caracteristicas de la flota, es decir, puntos de ataque, defensa, distancia y carga. En el caso de que la flota este diseñada. Al construir el hangar en nivel 1 ya aparece el boton intermintente **DESIGN FLEET** y luego que este diseñada **BUILD MORE**.
 
-3. La cantidad de drones que se encuentran en la cola de construccion.
+    - La otra opcion que se activa dadas ciertas circunstancias es el boton intermitente **DISASSEMBLE FLEET** para destruir la flota actual.
 
-4. Los relojes de cuenta regresiva
+2. **Fleet Prod. Queue**: La cantidad de drones que se encuentran en la cola de construccion.
+
+4. **Watch countdown**: Los relojes de cuenta regresiva
 
     - **BUILD**: Cuantos bloques faltan para finalizar la ampliacion del almace, hangar o wopr.
 
     - **FLEET**: Bloques restantes para la finalizacion de la construccion de la flota de drones.
 
-    
+
 ***
 Map
 ***
