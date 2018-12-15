@@ -210,7 +210,7 @@ Cuanto se selecciona un planeta se puede ver informacion del mismo.
 
 .. note::
     Los planetas son defendidos por nativos antes de la primer conquista. Nunca se debe subertimar el poder de estos.
-    
+
 
 .. image:: planetmap.png
     :width: 400px
@@ -226,7 +226,13 @@ Si la intencion es defender el planeta, se puede ocupar una de las 4 posiciones 
 Para poder aterrizar basta con presionar el boton **Land** que se disponibilizara en caso de que la Crypto-space Ship esta a distancia y los motores esten listos para el siguiente movimiento.
 
 .. hint::
-    Al aterrizar en un planeta **la produccion de grafeno y metales es nula**, pero es una excelente opcion para escapar de un enemigo ya que estando en el planeta no hay forma de ser atacado.
+    Al aterrizar en un planeta **la produccion de grafeno y metales es nula**, pero es una excelente opcion para escapar de un enemigo. Al aterrizar en un planeta no hay forma de ser atacado.
+
+
+Otras Crytp-space Ships
+-----------------------
+
+COMPLETAR
 
 
 Sección Derecha
