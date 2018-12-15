@@ -104,9 +104,9 @@ El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesa
 
 Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que seleccionar el rol de W.O.P.R entre:
 
-1. Crypto-Ion Cannon
+1. Converter
 
-2. Converter
+2. Crypto-Ion Cannon
 
 3. Reparer
 
@@ -118,7 +118,22 @@ Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que selec
 Seccion Derecha
 ===============
 
+En esta seccion se puede encontrar infomacion sobre la configuracion de la flota de drones de combate (**fleet**).
 
+1. El numero de drones que compone la flota
+
+2. Las caracteristicas de la flota, es decir, puntos de ataque, defensa, distancia y carga. En el caso de que la flota este diseñada. Al construir el hangar en nivel 1 ya aparece el boton intermintente **DESIGN FLEET** y luego que este diseñada **BUILD MORE**.
+Ademas la otra opcion que puede aparecer es el boton intermitente **DISASSEMBLE FLEET** para destruir la flota actual.
+
+3. La cantidad de drones que se encuentran en la cola de construccion.
+
+4. Los relojes de cuenta regresiva
+
+    - **BUILD**: Cuantos bloques faltan para finalizar la ampliacion del almace, hangar o wopr.
+
+    - **FLEET**: Bloques restantes para la finalizacion de la construccion de la flota de drones.
+
+    
 ***
 Map
 ***
