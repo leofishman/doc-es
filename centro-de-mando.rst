@@ -227,6 +227,17 @@ Al cumplirse las condiciones anteriormente descriptas, se habilitan los botones 
     La cantidad de bloques necesarios para el reaprovisionamiento de los drones es mucho mayor al atacar que al enviar recursos a otras Crypto-space Ships.
 
 
+De acuerdo al rol seleccionado al ampliar el **W.O.P.R** se puede habilitar la opcion de disparar el Crypto-Ion cannon o reparar la Crypto-space Ship, en caso de haber seleccionado **Crypto-Ion Cannon** o **Reparer**.
+
+
+Al disparar el Crypto-Ion cannon, se puede elegir entre dos modos de disparo:
+
+- **Normal**: Provocando daño a toda la Crypto-space Ship
+
+- **Accuracy**: Provocando daño solamente a la estructura seleccionada, destruyendo los niveles correspondientes al nivel de actualizacion del Crypto-Ion Cannon.
+
+
+
 Planetas
 --------
 
