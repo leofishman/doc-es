@@ -195,6 +195,25 @@ Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship 
     La disponibilidad de recursos varia en las distintas posiciones, es conveniente buscar un lugar con alta densidad de recursos. Una alta densidad implica una mayor produccion, una evolucion mas rapida hace la Crypto-space Ship mas poderosa en menor tiempo.
 
 
+Otras Crypto-space Ships
+------------------------
+
+Cuando se selecciona otra Crypto-space Ship, se puede observar informacion de la misma.
+
+- **Name**: Rempresenta el nombre de la obra nave, se puede enviar un mensaje al capitan de esta nave al apretar sobre el nombre.
+
+- **Distance**: La distancia entre las dos Crypto-space ship medida en **gdu**
+
+- **Mode**: El modo en que se encuentra la nave. Esta informacio es muy útil si se pretende atacarla.
+
+.. image:: shipmap.png
+    :width: 400px
+    :alt: Ship map
+    :align: center
+
+
+
+
 Planetas
 --------
 
