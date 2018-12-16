@@ -219,12 +219,12 @@ Para atacar a la nave seleccionada primero se deben cumplir ciertar condiciones
 
 3. La otra Crypto-space Ship debe estar a una distanca en rango de acuerdo al diseño de la flota.
 
-Al cumplirse las condiciones anteriormente descriptas, se habilitan los botones **Attack** y **Raid*. Ambas acciones realizan una accion belica sobre la otra Crypto-space Ship pero con la diferencia que **Attack** intenta destruir todas las naves y luego robar recursos, en cambio **Raid** intenta robar recursos tratando de salva la mayor cantidad de drones de la refriega.
+Al cumplirse las condiciones anteriormente descriptas, se habilitan los botones **Attack** y **Raid**. Ambas acciones realizan una accion belica sobre la otra Crypto-space Ship pero con la diferencia que **Attack** intenta destruir todas las naves y luego robar recursos, en cambio **Raid** intenta robar recursos tratando de salva la mayor cantidad de drones de la refriega.
 
 **Send resources** permite enviar recursos a la otra Crypto-space Ship, se tienem que cumplir los mismos requisitos que para entablar una batalla. La cantidad que se puede enviar depende del diseño de los drones y la cantidad que conforme la flota.
 
 .. note::
-    La cantidad de bloques necesaria para el reaprovisionamiento de las naves es mucho mayor al atacar que al enviar recursos a otras Crypto-space Ships.
+    La cantidad de bloques necesarios para el reaprovisionamiento de los drones es mucho mayor al atacar que al enviar recursos a otras Crypto-space Ships.
 
 
 Planetas
