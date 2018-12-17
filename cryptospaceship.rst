@@ -9,7 +9,7 @@ Crypto-space Ship
     :align: center
 
 
-Las Crypto-space Ships son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Esta compuesta por el modulo de mando y el casco, **CSS Token** y **CSS Hull** respectivamente
+Las Crypto-space Ships son poderosas fortalezas autosuficientes que pueden surcar el espacio imponiendo respeto a su paso. Está compuesta por el módulo de mando y el casco, **CSS Token** y **CSS Hull** respectivamente
 
 
 *********
