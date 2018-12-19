@@ -252,7 +252,7 @@ Cuanto se selecciona un planeta se disponibilizara la informacion del mismo.
 - Las Cryto-space Ships que se encuentran defendiendolo
 
 .. note::
-    Los planetas son defendidos por nativos antes de la primer conquista. Nunca se debe subertimar el poder de estos.
+    Los planetas son defendidos por nativos antes de la primer conquista. **Nunca subestimar su poder**.
 
 
 .. image:: planetmap.png
@@ -260,16 +260,20 @@ Cuanto se selecciona un planeta se disponibilizara la informacion del mismo.
     :alt: Planet Map
     :align: center
 
-El boton **Attack** estara disponible en caso de que la flota de drones este lista para el combate, el planeta se puede atacar para intentar debilitar a los defensores o directamente intentar la conquista.
+
+El boton **Attack** estara disponible en caso de que la flota de drones este lista para el combate, y en rango de ataque. El planeta se puede atacar para intentar debilitar a los defensores o directamente intentar la conquista.
 
 
-Si la intencion es defender el planeta, se puede ocupar una de las 4 posiciones defensivas, es necesario contar con drones para que **Defend** esta habilitado.
+Si la intencion es defender el planeta, se puede ocupar una de las 4 posiciones defensivas, es necesario contar con drones, la Crypto-space Ship deber estar en rango de movimiento y los motores listos para que **Defend** esta habilitado.
 
 
 Para poder aterrizar basta con presionar el boton **Land** que se disponibilizara en caso de que la Crypto-space Ship esta a distancia y los motores esten listos para el siguiente movimiento.
 
+.. node::
+    Al aterrizar o defender un planeta **la produccion de grafeno y metales es nula**. 
+
 .. hint::
-    Al aterrizar en un planeta **la produccion de grafeno y metales es nula**, pero es una excelente opcion para escapar de un enemigo. Al aterrizar en un planeta no hay forma de ser atacado.
+    No es posible atacar de ninguna manera a una Crypto-space Ship que aterrizo en un planeta. Es una buena estrategia para escapar de enemigos al acecho.
 
 
 Sección Derecha
