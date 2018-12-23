@@ -72,7 +72,7 @@ Caracteristicas de la generación actual
     6. Mejoras cambio de Modo
 
 .. note:: 
-    El **Limite de Entrenamiento establece** la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
+    El **Limite de Entrenamiento** establece la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
 
 .. image:: csstoken.png
     :width: 400px
