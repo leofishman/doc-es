@@ -22,7 +22,7 @@ Los siguientes indicadores están siempre presentes e informan lo siguiente:
 
 3. Cantidad de **Metales** acumulado sobre la cantidad que puede almacenar actualmente
 
-4. Estado de la Crypto-space Ship. **100%** indica que se encuentra en óptimas condiciones.
+4. Estado de la Crypto-space Ship. **100%** indica que se encuentra en óptimas condiciones
 
 .. hint::
     Cuando el recurso acumulado es igual a la cantidad que la Crypto-space ship puede almacenar actualmente y la producción de cada recurso es mayor a 0, se están desperdiciando recursos. **Se recomienda gastar o de ser posible ampliar el almancen**.
@@ -32,7 +32,7 @@ Los siguientes indicadores están siempre presentes e informan lo siguiente:
 Recursos
 ********
 
-A continuación se presenta la vista de Recursos.
+A continuación se presenta la vista de Recursos:
 
 .. image:: resources.png
     :width: 700px
@@ -70,7 +70,7 @@ Sobre este espacio se puede observar:
 
 2. **Production Ratio**: La producción de recursos por bloque
 
-3. **Watch countdown**: La cuenta regresiva que muestra la cantidad de bloques restantes para terminar la actualización.
+3. **Watch countdown**: La cuenta regresiva que muestra la cantidad de bloques restantes para terminar la actualización
 
 Opcionalmente pueden aparecer otros botones intermintes desbloqueando ciertas características, como por ejemplo la opción de prender el conversor de recursos y la opción de convertir recursos.
 
@@ -92,7 +92,7 @@ Vista del panel de construcciones internas
 Sección Izquierda
 =================
 
-Al igual que en la vista de recursos, se puede observar el nivel de las siguientes estructuras
+Al igual que en la vista de recursos, se puede observar el nivel de las siguientes estructuras:
 
 1. Almacén
 
@@ -125,7 +125,7 @@ En esta sección se puede encontrar infomación sobre la configuración de la fl
 
 1. **Fleet**: Información sobre la flota de drones
 
-    - El número de drones que compone la flota
+    - El número de drones que compone la flota.
     
     - Las características de la flota, es decir, puntos de ataque, defensa, distancia y carga. En el caso de que la flota esté diseñada. Al construir el hangar en nivel 1 ya aparece el botón intermintente **DESIGN FLEET** y luego que este diseñada **BUILD MORE**.
 
@@ -133,7 +133,7 @@ En esta sección se puede encontrar infomación sobre la configuración de la fl
 
 2. **Fleet Prod. Queue**: La cantidad de drones que se encuentran en la cola de construcción.
 
-4. **Watch countdown**: Los relojes de cuenta regresiva
+4. **Watch countdown**: Los relojes de cuenta regresiva.
 
     - **BUILD**: Cuantos bloques faltan para finalizar la ampliación del almacén, hangar o wopr.
 
@@ -155,7 +155,7 @@ Sección Izquierda
 =================
 
 En esta parte se puede encontrar la barra que indica la energia necesaria para poder pasas la Crypto-space Ship de modo.
-Luego los distintos botones para pasar de modo. Indicando con otro color el modo en que se encuentra actualmente.
+Luego los distintos botones para pasar de modo, indicando con otro color el modo en que se encuentra actualmente.
 
 Finalmente podemos poner unas coordenadas en **Map Browse** para poder explorar una posicion en el mapa.
 
@@ -198,7 +198,7 @@ Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship 
 Otras Crypto-space Ships
 ------------------------
 
-Cuando se selecciona otra Crypto-space Ship, se puede observar información de la misma.
+Cuando se selecciona otra Crypto-space Ship, se puede observar información de la misma:
 
 - **Name**: Representa el nombre de la otra nave, se puede enviar un mensaje al capitán de esta nave al apretar sobre el nombre.
 
@@ -211,13 +211,13 @@ Cuando se selecciona otra Crypto-space Ship, se puede observar información de l
     :alt: Ship map
     :align: center
 
-Para atacar a la nave seleccionada primero se deben cumplir ciertas condiciones
+Para atacar a la nave seleccionada primero se deben cumplir ciertas condiciones:
 
 1. Tener una **flota de drones**
 
-2. La flota debe estar lista para la acción. Si la flota estuvo recientemente en acción, hay que esperar los bloques restante para su reparación y reaprovisionamiento.
+2. La flota debe estar lista para la acción. Si la flota estuvo recientemente en acción, hay que esperar los bloques restante para su reparación y reaprovisionamiento
 
-3. La otra Crypto-space Ship debe estar a una distancia en rango de acuerdo al diseño de la flota.
+3. La otra Crypto-space Ship debe estar a una distancia en rango de acuerdo al diseño de la flota
 
 Al cumplirse las condiciones anteriormente descritas, se habilitan los botones **Attack** y **Raid**. Ambas acciones realizan una acción bélica sobre la otra Crypto-space Ship pero con la diferencia que **Attack** intenta destruir todas las naves y luego robar recursos, en cambio **Raid** intenta robar recursos tratando de salvar la mayor cantidad de drones de la refriega.
 
@@ -279,7 +279,7 @@ Para poder aterrizar basta con presionar el botón **Land** que se facilitará e
 Sección Derecha
 ===============
 
-- **Location** nos indica las coordenadas de la posición de la Crypto-space Ship en el mapa
+- **Location** nos indica las coordenadas de la posición de la Crypto-space Ship en el mapa.
 
 - **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran: **Ready for battle** o **Waiting**. 
 
