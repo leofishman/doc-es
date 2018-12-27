@@ -6,7 +6,7 @@ CryptoSpaceShip es un juego de estrategia de navegador donde todo sucede en la b
 A medida que va evolucionando, va a ir ganando ciertas ventajas que cada dueño del CSS Token tiene que elegir.
 
 Para poder jugar es necesario contar con un CSS Token, se puede adquirir directamente en el portal del juego o en su defecto en un mercado alternativo.
-Los CSS Token que se venden en el portal son básicas, esto quiere decir que no estan evolucionadas. 
+Los CSS Token que se venden en el portal son básicos, esto quiere decir que no estan evolucionadas. 
 
 Cada dueño de su CSS Token puede jugar el tiempo que quiera y luego venderlo al precio que quiera una vez ya evolucionado.  
 
