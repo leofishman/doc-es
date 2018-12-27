@@ -28,8 +28,8 @@ son entrenados, lo que permite mejorar el rendimiento en las próximas misiones 
     :alt: CSS Token Full Render 
     :align: center
 
-Cada CSS Token tiene características propias de la generación y características generales. Sin importar la generación, se puede diferenciar
-un por:
+Cada CSS Token tiene características propias de la generación y características generales. Sin importar la generación, se puede diferenciar por:
+
 
 - Nombre
 - Color
