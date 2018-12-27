@@ -19,16 +19,16 @@ CSS Token
 Descripción 
 ===========
 
-CSS Token es modulo de mando de las Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
+CSS Token es el modulo de mando de las Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
 QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos, los procesadores QAIM 
-son entrenados, lo que permite mejorar el rendimiento en las proximas misiones y teatros de operaciones. 
+son entrenados, lo que permite mejorar el rendimiento en las próximas misiones y teatros de operaciones. 
 
 .. image:: csstokencolor.png
     :width: 400px
     :alt: CSS Token Full Render 
     :align: center
 
-Cada CSS Token tiene caracteristicas propias de la generacion y caracteristicas generales. Sin importar la generacion, se puede diferenciar
+Cada CSS Token tiene características propias de la generación y características generales. Sin importar la generación, se puede diferenciar
 un por:
 
 - Nombre
@@ -40,7 +40,7 @@ un por:
 .. note::
     La generacion actual de los CSS Token es: **Gen 0**
 
-Caracteristicas de la generación actual 
+Características de la generación actual 
 =======================================
 
 
@@ -49,13 +49,13 @@ Caracteristicas de la generación actual
     :alt: CSS Token Draft
     :align: center
 
-- Generacion: Gen 0
+- Generación: Gen 0
 
-- Tripulacion: 600 
+- Tripulación: 600 
 
 - Nivel inicial: 0
 
-- Limite de Entrenamiento: 1000 puntos
+- Límite de Entrenamiento: 1000 puntos
 
 - Capacidad de entrenamiento: 5 puntos por nivel
 
@@ -72,7 +72,7 @@ Caracteristicas de la generación actual
     6. Mejoras cambio de Modo
 
 .. note:: 
-    El **Limite de Entrenamiento** establece la cantidad de puntos necesarios para poder subir de nivel y podes disponibilizar la **Capacidad de entrenamiento**
+    El **Limite de Entrenamiento** establece la cantidad de puntos necesarios para poder subir de nivel y poder disponibilizar la **Capacidad de entrenamiento**
 
 .. image:: csstoken.png
     :width: 400px
@@ -80,7 +80,7 @@ Caracteristicas de la generación actual
     :align: center
 
 .. hint::
-    Una vez que los puntos QAIM son distribuidos no hay manera de volver atras. Piense bien sus elecciones de acuerto al rumbo que quiera para su CSS Token.
+    Una vez que los puntos QAIM son distribuidos no hay manera de volver atrás. Piensa bien tus elecciones de acuerdo al rumbo que quieras para su CSS Token.
 
 
 ********
@@ -91,8 +91,8 @@ CSS Hull
 Descripción 
 ===========
 
-El CSS Hull es el componente que junto al CSS Token forman una Crypto-space Ship. Este modulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiendola en una verdadera nave nodriza y fortaleza andante.
-Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse mas poderosa.
+El CSS Hull es el componente que junto al CSS Token forman una Crypto-space Ship. Este módulo descartable solamente se utiliza para un tetro de operaciones, dando posibilidad al CSS Token de aventurarse en el crypto-space convirtiéndola en una verdadera nave nodriza y fortaleza andante.
+Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un nivel basico que deben ir progresando de nivel para hacerse más poderosa.
 
 
 .. image:: csssocket.png
@@ -102,10 +102,10 @@ Todos los CSS Hull al momento de conectarse tienen todas sus estructuras en un n
 
 
 .. note::
-    La generacion actual de los CSS Hull es: **Gen 0**
+    La generación actual de los CSS Hull es: **Gen 0**
 
 
-Caracteristicas de la generación actual 
+Características de la generación actual 
 =======================================
 
 - Cuenta con dos motores CryIon-2 que permiten un salto de hasta 6 gdu
@@ -120,64 +120,64 @@ Caracteristicas de la generación actual
 
 
 .. note::
-    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el modulo CSS Token. Es decir si el CSS Token tiene mas QAIMs, como maximo se van a poder conectar con dos de ellos.
+    La generacion **Gen 0** tiene una interfaz de 2 QAIM con el módulo CSS Token. Es decir si el CSS Token tiene más QAIMs, como máximo se van a poder conectar con dos de ellos.
     
 
 Estructuras Productivas
 =======================
 
-En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construccion.
+En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construcción.
 
-A continuacion se detallan las estructuras de producion
+A continuación se detallan las estructuras de producción:
 
 - **6 Paneles solares**: Los paneles solares absorven enegia de la estrella mas cercana. Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
 
-- **1 Recolector de Grafeno**: Como bien lo dice el nombre, este modulo recolecta y procesa el grafeno que esta desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el utimo nivel 40 grafeno por densidad.
+- **1 Recolector de Grafeno**: Como bien lo dice el nombre, este módulo recolecta y procesa el grafeno que está desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el último nivel 40 grafeno por densidad.
 
-- **1 Recolector de Minerales**: Este modulo recolecta los metales que existen en cada cuadrante. Se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el ultimo nivel 40 grafeno por densidad.
+- **1 Recolector de Minerales**: Este módulo recolecta los metales que existen en cada cuadrante. Se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el último nivel 40 grafeno por densidad.
 
 
 .. hint::
-    Desarrollar primero estas estructuras productivas le pueden dar la ventaja ya que una nave desarrollada econominamente es una nave poderosa.
+    Desarrollar primero estas estructuras productivas le pueden dar la ventaja ya que una nave desarrollada economicamente es una nave poderosa.
 
 
 .. note::
-    La produccion de energia no depende de la posicion donde se encuentre la Crypto-space Ship ya que no depende de la distancia a la estrella mas cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
-    Actualmente la variacion de la densidad de los distintos elementos es un tema de estudio.
+    La producción de energía no depende de la posición donde se encuentre la Crypto-space Ship ya que no depende de la distancia a la estrella más cercana. En el caso del grafeno y los metales cada coordenada del crypto-space tiene una densidad distinta. 
+    Actualmente la variación de la densidad de los distintos elementos es un tema de estudio.
 
 
 
-A continuacion se detalla el calculo de produccion.
+A continuación se detalla el calculo de produccion:
 
 ::
 
     pe = d * N
     Siendo
-        pe = Produccion
-        d = Densidad del recurso en la posicion
+        pe = Producción
+        d = Densidad del recurso en la posición
         N = La cantidad que produce un recolector en un nivel dado.
 
 
 Estructuras Internas
 ====================
 
-- **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada actualizacion. 
+- **Almacen**: 4 niveles con distinta cantidad de almacenaje en cada actualización. 
 
 - **Hangar**: 4 niveles. Cada nivel agrega mayor cantidad de puntos de flota y la cantidad de recursos que se disponibilizan a la hora de des ensamblar la flota de drones de combate.
 
-- **W.O.P.R**: El wopr es el espacio de construccion en el CSS Hull que permite elegir entre los siguientes dispositivos
+- **W.O.P.R**: El wopr es el espacio de construcción en el CSS Hull que permite elegir entre los siguientes dispositivos.
 
-    1. **Crypto-Ion Cannon**: Cañon que permite dos modalidades de disparo, normal y punteria. El modo normal ataca a toda la Crypto-space Ship subiendo el daño general, lo que provoca una disminucion proporcional de la produccion y de los tiempos de construccion y preparacion para las acciones generales de la Crypto-space Ship (movimientos, cambio de modo, disparos). El modo punteria permite apuntar y dañar a una estructura en particular y genera daño.
+    1. **Crypto-Ion Cannon**: Cañón que permite dos modalidades de disparo, normal y punteria. El modo normal ataca a toda la Crypto-space Ship subiendo el daño general, lo que provoca una disminución proporcional de la producción y de los tiempos de construcción y preparación para las acciones generales de la Crypto-space Ship (movimientos, cambio de modo, disparos). El modo punteria permite apuntar y dañar a una estructura en particular y genera daño.
 
-    2. **Reparer**: Modulo especial que permite repararse y reparar a otras Crypto-space Ship del daño provocado por los disparos de cañon. Ademas cuenta con un escudo que atenúa el daño de los disparos. 
+    2. **Reparer**: Módulo especial que permite repararse y reparar a otras Crypto-space Ship del daño provocado por los disparos de cañón. Además cuenta con un escudo que atenúa el daño de los disparos. 
 
-    3. **Resource Converter**: Este modulo permite convertir en tiempo real la producion de grafeno y metales en produccion de energia, ademas de poder convertir del stock cualquier recurso en otro.
+    3. **Resource Converter**: Este módulo permite convertir en tiempo real la producción de grafeno y metales en producción de energia, ademas de poder convertir del stock cualquier recurso en otro.
 
 
 Modos de nave
 =============
 
-La generacion actual de CSS Hull posee 4 modos, cadad uno con sus respectivas penalizaciones y bonificaciones con excepcion del modo normal.
+La generación actual de CSS Hull posee 4 modos, cadad uno con sus respectivas penalizaciones y bonificaciones con excepción del modo normal.
 
 Modo Ataque
 -----------
@@ -226,14 +226,14 @@ Modo Movimiento
 Flota de drones
 ===============
 
-Cada drone activo consume 1x de energia disminuyendo la produccion, como consecuencia se puede tener tantos drones activos segun la cantidad de energia que produce la Crypto-space Ship. 
-El diseño de los drones consiste en la distribucion de los puntos disponibles de acuerdo al nivel de hangar. 
+Cada drone activo consume 1x de energía disminuyendo la producción, como consecuencia se puede tener tantos drones activos segun la cantidad de energia que produce la Crypto-space Ship. 
+El diseño de los drones consiste en la distribución de los puntos disponibles de acuerdo al nivel de hangar. 
 
 .. hint::
-    Los drones se pueden diseañar y rediseñar en cualquier momento, el unico requisito es no tener ningun dron activo. Se puede tambien destruir los drones activos con el fin de rediseñar. A partir del nivel 2 de hangar, al destruir drones activos parte de los recursos se reciclan y vuelven al stock.
+    Los drones se pueden diseñar y rediseñar en cualquier momento, el único requisito es no tener ningún dron activo. Se puede también destruir los drones activos con el fin de rediseñar. A partir del nivel 2 de hangar, al destruir drones activos parte de los recursos se reciclan y vuelven al stock.
 
 
-Los puntos para el diseño de drones se pueden distribuir en las siguientes caracteristicas:
+Los puntos para el diseño de drones se pueden distribuir en las siguientes características:
 
     1. **Ataque**: Puntos de ataque de cada dron
     2. **Defensa**: Puntos de defensa de cada dron
@@ -241,19 +241,19 @@ Los puntos para el diseño de drones se pueden distribuir en las siguientes cara
     4. **Distancia**: Rango de ataque
 
 
-De acuerdo a la distribucion de los puntos existen 5 distintos tipos de drones
+De acuerdo a la distribución de los puntos existen 5 distintos tipos de drones:
 
-    - **Predator**: Su mayor caracteristica es el ataque
-    - **Keeper**: Su mayor caracteristica es la defensa
-    - **Interceptor**: Su mayor caracteristica es el rango de ataque
-    - **Galleon**: Su mayor caracteristica es la cantidad de recursos que puede transportar
-    - **Hybrid**: No tiene una caracteristica sobresaliente
+    - **Predator**: Su mayor característica es el ataque
+    - **Keeper**: Su mayor característica es la defensa
+    - **Interceptor**: Su mayor característica es el rango de ataque
+    - **Galleon**: Su mayor característica es la cantidad de recursos que puede transportar
+    - **Hybrid**: No tiene una característica sobresaliente
 
 .. note::
     No pueden coexistir en el mismo momento dos o mas tipos de drones. Si la estrategia cambia, es necesario re diseñar y construir nuevos tipos de drones.
 
 .. hint::
-    Los drones no solamente sirven para la guerra, sino tambien para enviar recursos a una nave aliada, es necesario que los drones tengan puntos de **distancia** y de **carga**.
+    Los drones no solamente sirven para la guerra, sino también para enviar recursos a una nave aliada, es necesario que los drones tengan puntos de **distancia** y de **carga**.
 
    
 .. image:: csstokenhull.png
