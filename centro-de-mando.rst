@@ -299,7 +299,7 @@ Mensajes
 ********
 
 Es la manera que tienen las Crypto-space Ship para comunicarse entre si. Al instante de escribir un mensaje el capitan de la otra Crypto-space Ship ya puede leerlo.
-Solamente es necesario saber el nombre de la otra Crypto-space Ship a la hora de redactar el mensaje.
+Solamente es necesario saber el nombre de la otra Crypto-space Ship a la hora de redactar el mensaje
 
 
 
