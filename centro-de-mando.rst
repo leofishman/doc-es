@@ -204,7 +204,7 @@ Cuando se selecciona otra Crypto-space Ship, se puede observar información de l
 
 - **Distance**: La distancia entre las dos Crypto-space ship medida en **gdu**
 
-- **Mode**: El modo en que se encuentra la nave. Esta información es muy útil si se pretende atacarla.
+- **Mode**: El modo en que se encuentra la nave. Esta información es muy útil si se pretende atacarla
 
 .. image:: shipmap.png
     :width: 400px
@@ -283,7 +283,7 @@ Sección Derecha
 
 - **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran: **Ready for battle** o **Waiting**. 
 
-- **Action Countdown** la cantidad de bloques necesarios para
+- **Action Countdown** la cantidad de bloques necesarios para:
 
     - **Move**: realizar un movimiento de la Crypto-space Ship. Esto se debe a que los motores se deben cargar para poder realizar el próximo salto.
 
