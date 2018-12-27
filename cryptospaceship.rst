@@ -126,13 +126,13 @@ Características de la generación actual
 Estructuras Productivas
 =======================
 
-En el **Crypto-Space** existen 3 elementos: Energia, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construcción.
+En el **Crypto-Space** existen 3 elementos: Energía, Grafeno y Metales. Todas las actualizaciones en la Crypto-space Ship requiren cierta cantidad de recursos para su construcción.
 
 A continuación se detallan las estructuras de producción:
 
-- **6 Paneles solares**: Los paneles solares absorven enegia de la estrella mas cercana. Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
+- **6 Paneles solares**: Los paneles solares absorven enegía de la estrella más cercana. Cada uno de los paneles solares se puede actualizar desde el nivel 1 al nivel 10
 
-- **1 Recolector de Grafeno**: Como bien lo dice el nombre, este módulo recolecta y procesa el grafeno que está desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciento en el primer nivel 1 grafeno por densidad y en el último nivel 40 grafeno por densidad.
+- **1 Recolector de Grafeno**: Como bien lo dice el nombre, este módulo recolecta y procesa el grafeno que está desperdigado en el crypto-espacio. El recolector de grafeno se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el último nivel 40 grafeno por densidad.
 
 - **1 Recolector de Minerales**: Este módulo recolecta los metales que existen en cada cuadrante. Se puede actualizar desde el nivel 1 al nivel 10. Produciendo en el primer nivel 1 grafeno por densidad y en el último nivel 40 grafeno por densidad.
 
