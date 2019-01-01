@@ -20,7 +20,7 @@ Descripción
 ===========
 
 CSS Token es el modulo de mando de las Crypto-space Ship. Estos modulos de comando poseen procesadores de habilidades llamados
-QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos, los procesadores QAIM 
+QAIM (Quantum Artificial Intelligence Module). A medida que un CSS Token participa en distintos escenarios belicos, los procesadores **QAIM**
 son entrenados, lo que permite mejorar el rendimiento en las próximas misiones y teatros de operaciones. 
 
 .. image:: csstokencolor.png
